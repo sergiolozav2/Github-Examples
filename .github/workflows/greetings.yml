@@ -1,4 +1,4 @@
-name: Greetings
+name: GreetingsV2
 
 on: [pull_request_target, issues]
 
